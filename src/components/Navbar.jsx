@@ -364,7 +364,7 @@ export default function Navbar() {
           >
             <Box
               component="img"
-              src="src\images\logo.png"
+              src="\logo.png"
               alt="logo"
               sx={{
                 width: { xs: 30, sm: 32, md: 34 },
